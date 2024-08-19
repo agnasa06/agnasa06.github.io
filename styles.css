@@ -67,4 +67,25 @@ footer {
     padding: 10px 0;
     background-color: #007bff;
     color: white;
+    .projects {
+        background-color: #fff;
+        padding: 20px;
+        margin: 20px auto;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        max-width: 800px;
+    }
+    
+    .project {
+        margin-bottom: 20px;
+    }
+    
+    .project h3 {
+        color: #007bff;
+        margin-bottom: 5px;
+    }
+    
+    .project p {
+        margin: 5px 0;
+    }
 }
